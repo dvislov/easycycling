@@ -430,3 +430,6 @@ th {
   color: green;
 }
 
+body {
+  background: url("../images/background.jpg") center top no-repeat;
+}
