@@ -430,6 +430,22 @@ th {
   color: green;
 }
 
-body {
-  background: url("../images/background.jpg") center top no-repeat;
+body img {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+.main {
+  padding: 0 20px;
+}
+.footer {
+  max-width: 1431px;
+  padding: 0 20px;
+  margin: 0 auto;
+  text-align: right;
+  line-height: 24px;
+  color: #bfbfbf;
+}
+.footer a {
+  color: #ff5400;
 }
